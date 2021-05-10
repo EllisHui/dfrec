@@ -1,0 +1,7 @@
+dlib==19.20.0
+numpy==1.19.5
+pandas @ file:///D:/bld/pandas_1607423921518/work
+Pillow==8.1.0
+python-dateutil==2.8.1
+pytz==2020.5
+six==1.15.0
